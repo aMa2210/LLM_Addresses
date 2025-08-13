@@ -24,3 +24,5 @@ Statistical analyses were performed on the generated results to explore the dist
 - `Figures/`  
   Contains visualizations and plots comparing results across models and cities.
 
+- `Maps/`  
+  Contains clustering heat maps that provide visual representations of the generated addresses.
